@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Azure**
 
-- 📝 I regularly write articles on [MyBlog](https://jackyblogs.net/)
+- 📝 I regularly write articles on [MyBlog](https://jackyblog.azurewebsites.net/)
 
 - 📫 How to reach me **jchiou@microsoft.com**
 
