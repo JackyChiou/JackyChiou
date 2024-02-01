@@ -1,0 +1,12 @@
+# template.yml
+parameters:
+- name: mySteps
+  type: stepList
+  default: []
+jobs:
+- job:
+  steps:
+  - task: MyTelemetryReporter@1
+  - ${{ each step in parameters.mySteps }}:
+    - ${{ step }}
+  - task: MyVirusScanner@1
