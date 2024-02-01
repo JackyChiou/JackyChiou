@@ -1,3 +1,5 @@
+
+name: CallTemplate
 # azure-pipelines.yml
 extends:
   template: template.yml
